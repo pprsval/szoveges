@@ -7,9 +7,6 @@
 [submodule "vblog2/themes/terminal"]
 	path = vblog2/themes/terminal
 	url = https://github.com/panr/hugo-theme-terminal.git
-[submodule "vp_blog/themes/terminal"]
-	path = vp_blog/themes/terminal
-	url = https://github.com/panr/hugo-theme-terminal.git
 [submodule "themes/hugo-bearcub"]
 	path = themes/hugo-bearcub
 	url = https://github.com/clente/hugo-bearcub
