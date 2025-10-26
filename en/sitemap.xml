@@ -2,72 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://pprsval.github.io/szoveges/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/pt/"
+                href="https://pprsval.github.io/szoveges/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/"
+                href="https://pprsval.github.io/szoveges/"
                 />
   </url><url>
-    <loc>http://localhost:1313/egyeb-dolgom-nincs/</loc>
+    <loc>https://pprsval.github.io/szoveges/egyeb-dolgom-nincs/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/egyperces/</loc>
+    <loc>https://pprsval.github.io/szoveges/tags/egyperces/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%C3%ADr%C3%A1s/</loc>
+    <loc>https://pprsval.github.io/szoveges/tags/%C3%ADr%C3%A1s/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/szimpla-teszt/</loc>
+    <loc>https://pprsval.github.io/szoveges/szimpla-teszt/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://pprsval.github.io/szoveges/tags/</loc>
     <lastmod>2025-10-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/pt/tags/"
+                href="https://pprsval.github.io/szoveges/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/tags/"
+                href="https://pprsval.github.io/szoveges/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/elso-de-nem-utolso/</loc>
+    <loc>https://pprsval.github.io/szoveges/elso-de-nem-utolso/</loc>
     <lastmod>2025-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/harmadik-de-nem-utolso/</loc>
+    <loc>https://pprsval.github.io/szoveges/harmadik-de-nem-utolso/</loc>
     <lastmod>2025-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/keptelenseg/</loc>
+    <loc>https://pprsval.github.io/szoveges/keptelenseg/</loc>
     <lastmod>2025-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/masodik-de-nem-utolso/</loc>
+    <loc>https://pprsval.github.io/szoveges/masodik-de-nem-utolso/</loc>
     <lastmod>2025-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tag1/</loc>
+    <loc>https://pprsval.github.io/szoveges/tags/tag1/</loc>
     <lastmod>2025-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tag2/</loc>
+    <loc>https://pprsval.github.io/szoveges/tags/tag2/</loc>
     <lastmod>2025-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://pprsval.github.io/szoveges/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/pt/categories/"
+                href="https://pprsval.github.io/szoveges/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/categories/"
+                href="https://pprsval.github.io/szoveges/categories/"
                 />
   </url>
 </urlset>

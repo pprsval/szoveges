@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tag2 on PV - Írások</title>
-    <link>http://localhost:1313/tags/tag2/</link>
+    <link>https://pprsval.github.io/szoveges/tags/tag2/</link>
     <description>Recent content in Tag2 on PV - Írások</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
@@ -10,21 +10,21 @@
     <webMaster>p.valentyin@protonmail.com (PV Peres Valentin)</webMaster>
     <copyright>PV Peres Valentin (CC BY 4.0)</copyright>
     <lastBuildDate>Wed, 22 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pprsval.github.io/szoveges/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Első de nem utolsó</title>
-      <link>http://localhost:1313/elso-de-nem-utolso/</link>
+      <link>https://pprsval.github.io/szoveges/elso-de-nem-utolso/</link>
       <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate><author>p.valentyin@protonmail.com (PV Peres Valentin)</author>
-      <guid>http://localhost:1313/elso-de-nem-utolso/</guid>
+      <guid>https://pprsval.github.io/szoveges/elso-de-nem-utolso/</guid>
       <description>&lt;p&gt;Egy bejegyzés&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Egy bejegyzés</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>Harmadik de nem utolsó</title>
-      <link>http://localhost:1313/harmadik-de-nem-utolso/</link>
+      <link>https://pprsval.github.io/szoveges/harmadik-de-nem-utolso/</link>
       <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate><author>p.valentyin@protonmail.com (PV Peres Valentin)</author>
-      <guid>http://localhost:1313/harmadik-de-nem-utolso/</guid>
+      <guid>https://pprsval.github.io/szoveges/harmadik-de-nem-utolso/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Mesterséges zajok, ízek, intelligenciák,&lt;/p&gt;&#xA;&lt;p&gt;Hangok, képek és szavak&lt;/p&gt;&#xA;&lt;p&gt;Úgy tűnik a természet is megunható,&lt;/p&gt;&#xA;&lt;p&gt;Határaink a valóságon túl nyugszanak.&lt;/p&gt;&#xA;&lt;p&gt;Enyhén szólva: ráléptünk a pedálra,&lt;/p&gt;&#xA;&lt;p&gt;Felgyorsult életünk irama mára,&lt;/p&gt;&#xA;&lt;p&gt;Lassan és biztosan&lt;/p&gt;&#xA;&lt;p&gt;Készülhetünk a gépek diadalára!&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
       <content:encoded><![CDATA[<blockquote>
 <p>Mesterséges zajok, ízek, intelligenciák,</p>
@@ -40,9 +40,9 @@
     </item>
     <item>
       <title>Képtelenségesség</title>
-      <link>http://localhost:1313/keptelenseg/</link>
+      <link>https://pprsval.github.io/szoveges/keptelenseg/</link>
       <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate><author>p.valentyin@protonmail.com (PV Peres Valentin)</author>
-      <guid>http://localhost:1313/keptelenseg/</guid>
+      <guid>https://pprsval.github.io/szoveges/keptelenseg/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Mesterséges zajok, ízek, intelligenciák,&lt;/p&gt;&#xA;&lt;p&gt;Hangok, képek és szavak&lt;/p&gt;&#xA;&lt;p&gt;Úgy tűnik a természet is megunható,&lt;/p&gt;&#xA;&lt;p&gt;Határaink a valóságon túl nyugszanak.&lt;/p&gt;&#xA;&lt;p&gt;Enyhén szólva: ráléptünk a pedálra,&lt;/p&gt;&#xA;&lt;p&gt;Felgyorsult életünk irama mára,&lt;/p&gt;&#xA;&lt;p&gt;Lassan és biztosan&lt;/p&gt;&#xA;&lt;p&gt;Készülhetünk a gépek diadalára!&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
       <content:encoded><![CDATA[<blockquote>
 <p>Mesterséges zajok, ízek, intelligenciák,</p>
@@ -58,9 +58,9 @@
     </item>
     <item>
       <title>Második de nem utolsó</title>
-      <link>http://localhost:1313/masodik-de-nem-utolso/</link>
+      <link>https://pprsval.github.io/szoveges/masodik-de-nem-utolso/</link>
       <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate><author>p.valentyin@protonmail.com (PV Peres Valentin)</author>
-      <guid>http://localhost:1313/masodik-de-nem-utolso/</guid>
+      <guid>https://pprsval.github.io/szoveges/masodik-de-nem-utolso/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Mesterséges zajok, ízek, intelligenciák,&lt;/p&gt;&#xA;&lt;p&gt;Hangok, képek és szavak&lt;/p&gt;&#xA;&lt;p&gt;Úgy tűnik a természet is megunható,&lt;/p&gt;&#xA;&lt;p&gt;Határaink a valóságon túl nyugszanak.&lt;/p&gt;&#xA;&lt;p&gt;Enyhén szólva: ráléptünk a pedálra,&lt;/p&gt;&#xA;&lt;p&gt;Felgyorsult életünk irama mára,&lt;/p&gt;&#xA;&lt;p&gt;Lassan és biztosan&lt;/p&gt;&#xA;&lt;p&gt;Készülhetünk a gépek diadalára!&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
       <content:encoded><![CDATA[<blockquote>
 <p>Mesterséges zajok, ízek, intelligenciák,</p>
