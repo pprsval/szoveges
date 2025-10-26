@@ -12,6 +12,22 @@
     <lastBuildDate>Sun, 26 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://pprsval.github.io/szoveges/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Egyperces</title>
+      <link>https://pprsval.github.io/szoveges/tags/egyperces/</link>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate><author>p.valentyin@protonmail.com (PV Peres Valentin)</author>
+      <guid>https://pprsval.github.io/szoveges/tags/egyperces/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Írás</title>
+      <link>https://pprsval.github.io/szoveges/tags/%C3%ADr%C3%A1s/</link>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate><author>p.valentyin@protonmail.com (PV Peres Valentin)</author>
+      <guid>https://pprsval.github.io/szoveges/tags/%C3%ADr%C3%A1s/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
       <title>Tag1</title>
       <link>https://pprsval.github.io/szoveges/tags/tag1/</link>
       <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate><author>p.valentyin@protonmail.com (PV Peres Valentin)</author>
@@ -24,22 +40,6 @@
       <link>https://pprsval.github.io/szoveges/tags/tag2/</link>
       <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate><author>p.valentyin@protonmail.com (PV Peres Valentin)</author>
       <guid>https://pprsval.github.io/szoveges/tags/tag2/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    <item>
-      <title>Egyperces</title>
-      <link>https://pprsval.github.io/szoveges/tags/egyperces/</link>
-      <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate><author>p.valentyin@protonmail.com (PV Peres Valentin)</author>
-      <guid>https://pprsval.github.io/szoveges/tags/egyperces/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    <item>
-      <title>Írás</title>
-      <link>https://pprsval.github.io/szoveges/tags/%C3%ADr%C3%A1s/</link>
-      <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate><author>p.valentyin@protonmail.com (PV Peres Valentin)</author>
-      <guid>https://pprsval.github.io/szoveges/tags/%C3%ADr%C3%A1s/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
